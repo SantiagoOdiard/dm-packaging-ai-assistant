@@ -1,0 +1,13 @@
+DM Packaging - Sample Manual
+
+Model: FLOWPACK-1000
+
+Descrizione: Macchina confezionatrice FlowPack per prodotti alimentari.
+
+Manutenzione:
+- Pulire regolarmente il nastro trasportatore.
+- Controllare sensori ottici ogni 500 ore.
+
+Ricambi:
+- Cinghia nastro: codice CING-100 (compatibile: FLOWPACK-1000, FLOWPACK-2000)
+- Sensore ottico: codice SENS-OP1 (compatibile: FLOWPACK-1000)

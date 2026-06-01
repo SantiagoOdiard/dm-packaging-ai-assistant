@@ -1,0 +1,256 @@
+MANUALE TECNICO MACCHINE PACKAGING - DM PACKAGING GROUP
+========================================================
+
+VERSIONE: 2024
+DATA: Gennaio 2024
+
+
+CAPITOLO 1: MACCHINA FLOWPACK-1000
+==================================
+
+1.1 SPECIFICHE TECNICHE
+- Modello: FLOWPACK-1000
+- Velocità massima: 60 pacchetti/minuto
+- Larghezza film: 50-200mm
+- Dimensioni saldatura: 20-30mm
+- Alimentazione: 220V monofase
+- Potenza: 3.5 kW
+
+1.2 SISTEMA DI TRASPORTO
+Il sistema di trasporto utilizza una cinghia nastro (CING-100) con velocità regolabile.
+Sensore ottico (SENS-OP1) per rilevamento prodotto.
+
+MANUTENZIONE: Controllare cinghia ogni 1000 ore di lavoro. Se cinghia presenta usura > 20%, sostituire con CING-100.
+
+1.3 SISTEMA DI SALDATURA
+Bobina saldatura (BOB-SALD-1) opera a temperatura 180-200°C.
+Sensore temperatura (SENS-TEMP) monitora costantemente la temperatura.
+
+ALLARME TEMPERATURA: Se temperatura scende sotto 150°C, il sistema interrompe il confezionamento.
+SOLUZIONE: Verificare resistenza bobina, controllare cavi saldatura, sostituire sensore se difettoso.
+
+1.4 SISTEMA PNEUMATICO
+Cilindro pneumatico (CIL-PN50) fornisce pressione saldatura.
+Valvola solenoide (VALV-SOL-24) controlla flusso aria.
+
+PRESSIONE STANDARD: 6 bar
+ALLARME PRESSIONE: Se pressione < 5 bar, la macchina riduce velocità.
+CAUSA COMUNE: Perdita aria da tubi. SOLUZIONE: Ispezionare connessioni, sostituire O-ring usurati.
+
+1.5 SISTEMA ELETTRICO
+Trasformatore (TRASF-500W) converte 220V AC a 24V DC per controlli.
+Relè temporizzato (RELE-TIME-24) regola cicli saldatura.
+
+PROBLEMA: Perdita alimentazione 24V -> Controllare fusibile (FUSI-10A), verificare trasformatore.
+
+1.6 SENSORI E FOTOCELLULE
+- Fotocellula (FOTOC-IR): Rilevamento prodotto all'ingresso
+- Sensore ottico (SENS-OP1): Allineamento prodotto
+- Sensore temperatura (SENS-TEMP): Monitoraggio bobina
+
+ERRORE FOTOCELLULA: Pulizia lente con panno morbido. Se errore persiste, sostituire FOTOC-IR.
+
+
+CAPITOLO 2: MACCHINA FLOWPACK-2000
+==================================
+
+2.1 SPECIFICHE TECNICHE
+- Modello: FLOWPACK-2000
+- Velocità massima: 120 pacchetti/minuto
+- Larghezza film: 50-300mm
+- Potenza: 7.5 kW
+- Alimentazione: 380V trifase
+
+2.2 SISTEMA MECCANICO AVANZATO
+Motoriduttore (MR-200) per trascinamento ad alta velocità.
+Cuscinetti radiali (CUSC-6204) per ridurre attrito.
+
+RUMORE CUSCINETTI: Se rumore superiore a 75 dB, cuscinetti probabilmente usurati.
+SOLUZIONE: Lubrificare con grasso industriale ogni 500 ore. Sostituire se danno visibile.
+
+2.3 CINGHIA DENTATA
+Cinghia dentata (CING-DENT-200) trasmette potenza dal motore alla bobina saldatura.
+
+PROBLEMI COMUNI:
+- Slittamento cinghia: Verificare tensione (deve essere 100-150 N). Regolare con viti di tensione.
+- Cinghia rotta: Sostituire con CING-DENT-200 identico. Controllare allineamento pulegge.
+- Usura cinghia: Sostituire ogni 2000 ore di lavoro.
+
+2.4 TEMPERATURE SALDATURA ELEVATE
+FLOWPACK-2000 raggiunge temperature fino a 220°C.
+
+ERRORE SOVRACCARICO BOBINA: Se bobina si surriscalda eccessivamente (> 240°C)
+CAUSE:
+1. Sensore temperatura (SENS-TEMP) difettoso - SOLUZIONE: Sostituire sensore
+2. Bobina danneggiata - SOLUZIONE: Sostituire BOB-SALD-1 compatibile FLOWPACK-2000
+3. Ventilazione insufficiente - SOLUZIONE: Pulire griglie ventilazione, controllare ventola
+
+2.5 CIRCUITI PNEUMATICI COMPLESSI
+FLOWPACK-2000 utilizza doppio cilindro pneumatico per pressione differenziata.
+
+PERDITA PRESSIONE: Se pressione cala rapidamente
+1. Ispezionare tubi pneumatici per crepe
+2. Verificare guarnizioni viton (GUARD-VITON-30) - Sostituire se danneggiate
+3. Controllare valvola solenoide (VALV-SOL-24) - Pulire o sostituire
+
+
+CAPITOLO 3: MACCHINA FLOWPACK-3000
+==================================
+
+3.1 SPECIFICHE TECNICHE
+- Modello: FLOWPACK-3000 (Premium)
+- Velocità massima: 200 pacchetti/minuto
+- Larghezza film: 50-400mm
+- Potenza: 15 kW
+- Alimentazione: 380V trifase con UPS
+
+3.2 SISTEMA IBRIDO MECCANICO-PNEUMATICO
+FLOWPACK-3000 combina trasporto meccanico ad alta velocità con pressione pneumatica.
+
+3.3 DIAGNOSTICA AVANZATA
+Tutte le macchine FLOWPACK-3000 dispongono di display diagnostico.
+
+CODICI ERRORE COMUNI:
+- E001: Sensore temperatura non risponde - Sostituire SENS-TEMP
+- E002: Fotocellula non rilevata - Pulire FOTOC-IR o sostituire
+- E003: Pressione pneumatica assente - Verificare compressore e valvole
+- E004: Motore non parte - Verificare alimentazione, controllare relè e fusibili
+- E005: Cinghia bloccata - Ispezionare cuscinetti (CUSC-6204) e cinghia (CING-DENT-200)
+- E006: Sovraccarico termico bobina - Lasciar raffreddare, controllare ventilazione
+
+3.4 MANUTENZIONE PREVENTIVA FLOWPACK-3000
+- Ogni 250 ore: Controllare pressione pneumatica, lubrificare cuscinetti
+- Ogni 500 ore: Ispezionare cinghia, pulire sensori
+- Ogni 1000 ore: Ispezionare bobina saldatura, sostituire filtri aria
+- Ogni 2000 ore: Manutenzione completa motore, calibrare sensori
+
+
+CAPITOLO 4: GUIDA RAPIDA TROUBLESHOOTING
+==========================================
+
+SINTOMO: Macchina non avvia
+CAUSE POSSIBILI:
+1. Nessuna alimentazione 220V/380V
+2. Fusibile saltato (FUSI-10A)
+3. Relè temporizzato difettoso (RELE-TIME-24)
+4. Pulsante START difettoso
+AZIONI:
+- Verificare presa alimentazione
+- Controllare fusibile, sostituire se necessario
+- Testare relè con multimetro
+- Contattare tecnico se problema persiste
+
+---
+
+SINTOMO: Saldatura difettosa o debole
+CAUSE POSSIBILI:
+1. Temperatura insufficiente (< 150°C)
+2. Pressione insufficiente (< 5 bar)
+3. Bobina danneggiata (BOB-SALD-1)
+4. Tempo di saldatura troppo breve
+AZIONI:
+- Verificare lettura sensore temperatura (SENS-TEMP)
+- Se lettura anomala, sostituire sensore
+- Controllare pressione pneumatica con manometro
+- Verificare cavi di collegamento bobina per continuità
+- Regolare tempo saldatura da menu controllo
+
+---
+
+SINTOMO: Blocco nastro trasportatore
+CAUSE POSSIBILI:
+1. Cinghia rotta (CING-100, CING-DENT-200)
+2. Cuscinetti bloccati (CUSC-6204) per usura
+3. Motore difettoso (MR-200)
+4. Prodotto incastrato
+AZIONI:
+- SPEGNERE IMMEDIATAMENTE la macchina
+- Ispezionare visivamente cinghia per crepe
+- Verificare rotazione manuale dell'asse (deve girare libera)
+- Se cuscinetto grippato, sostituire CUSC-6204
+- Riavviare e testare
+
+---
+
+SINTOMO: Allarme temperature elevate
+CAUSE POSSIBILI:
+1. Sensore temperatura (SENS-TEMP) difettoso
+2. Bobina saldatura (BOB-SALD-1) danneggiata
+3. Ventilazione insufficiente
+4. Tempo di saldatura eccessivo
+AZIONI:
+- Lasciar raffreddare la macchina per 30 minuti
+- Pulire griglie ventilazione
+- Ridurre tempo saldatura
+- Se problema persiste, sostituire SENS-TEMP
+- Ispezionare bobina per segni di carbonizzazione
+
+---
+
+SINTOMO: Perdita aria dalla linea pneumatica
+CAUSE POSSIBILI:
+1. Tubi pneumatici danneggiati
+2. Connessioni allentate
+3. Guarnizioni viton (GUARD-VITON-30) usurate
+4. Valvola solenoide (VALV-SOL-24) difettosa
+AZIONI:
+- Ascoltare e localizzare perdita
+- Serrare connessioni
+- Ispezionare tubi, sostituire se necessario
+- Sostituire O-ring se visibilmente danneggiati
+- Se perdita persiste, testare valvola solenoide
+
+---
+
+SINTOMO: Sensori non riconoscono il prodotto
+CAUSE POSSIBILI:
+1. Fotocellula (FOTOC-IR) sporca
+2. Lente sensore offuscata
+3. Allineamento sensore errato
+4. Sensore difettoso
+AZIONI:
+- Pulire lente di tutti i sensori con panno morbido
+- Controllare allineamento rispetto al prodotto
+- Regolare sensibilità da menu se disponibile
+- Testare singoli sensori
+- Se non funzionano, sostituire FOTOC-IR e SENS-OP1
+
+---
+
+SINTOMO: Codice errore sul display (FLOWPACK-3000)
+- E001: Sostituire SENS-TEMP
+- E002: Pulire o sostituire FOTOC-IR
+- E003: Verificare pressione e valvole pneumatiche
+- E004: Controllare alimentazione e fusibili
+- E005: Ispezionare cuscinetti (CUSC-6204) e cinghie
+- E006: Lasciar raffreddare, verificare ventilazione
+
+
+CAPITOLO 5: LISTA RICAMBI CRITICI
+===================================
+
+Ricambi da tenere sempre in magazzino:
+- CING-100: Cinghia nastro (usura frequente)
+- SENS-OP1: Sensore ottico (errori frequenti)
+- BOB-SALD-1: Bobina saldatura (componente critico)
+- SENS-TEMP: Sensore temperatura (affidabilità media)
+- FOTOC-IR: Fotocellula (spesso sporca necessita sostituzione)
+- FUSI-10A: Fusibili (consumabili)
+- GUARD-VITON-30: Guarnizioni (usura pressione)
+- CUSC-6204: Cuscinetti (manutenzione periodica)
+
+
+CAPITOLO 6: CONTATTI SUPPORTO TECNICO
+======================================
+
+DM PACKAGING GROUP - Supporto Tecnico
+Email: support@dmpackaging.com
+Telefono: +39 0XX XXXXXXX
+Disponibilità: 08:00-18:00 Lun-Ven
+
+Per segnalazioni di guasti critici:
+Telefono 24/7: +39 0XX YYYYYYY
+Disponibilità: Urgenze industriali
+
+---
+Fine documento
