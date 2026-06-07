@@ -21,4 +21,5 @@ Industrial AI platform for technical support, troubleshooting and spare parts ma
 ## Demo
 
 [Video demonstration available on request.](https://github.com/SantiagoOdiard/dm-packaging-ai-assistant/blob/main/DM%20Packaging%20AI%20Assistant%20-%20Google%20Chrome%202026-06-01%2021-26-16.mp4)
+
 https://dm-packaging-ai.vercel.app/
